@@ -38,7 +38,7 @@ export default async function RootLayout({
         </main>
         <footer className="hidden lg:flex w-full border-t border-t-foreground/10 p-5 h-4 lg:justify-center lg:items-center text-center text-xs bg-btn-background sticky bottom-0">
           <p>
-            @ Copyright {currentYear} - Garage Comparet. All rights reserved. |  
+            @ Copyright {currentYear} - Garage Comparet. Tous droits réservés. |  
             <Link href="/about" className="hover:text-highlight"> Mentions légales</Link>
           </p>
         </footer>
